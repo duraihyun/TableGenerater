@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableGenerater", "TableGenerater\TableGenerater.csproj", "{F60DD52F-4C8E-400E-9279-DE7AA2F7A233}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F60DD52F-4C8E-400E-9279-DE7AA2F7A233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60DD52F-4C8E-400E-9279-DE7AA2F7A233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60DD52F-4C8E-400E-9279-DE7AA2F7A233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60DD52F-4C8E-400E-9279-DE7AA2F7A233}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62EC51EE-087F-40CC-A015-E4616D954EA8}
+	EndGlobalSection
+EndGlobal
